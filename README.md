@@ -34,11 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaziqH&show_icons=true)
-
----
-
 ## 🤝 Connect with Me
 - 💼 LinkedIn: 
 - 📧 Email: baziq100@email.com
