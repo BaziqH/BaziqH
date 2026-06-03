@@ -35,7 +35,7 @@ And Many More....
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: 
+- 💼 LinkedIn: www.linkedin.com/in/baziq-hameed
 - 📧 Email: baziq100@email.com
 
 ---
